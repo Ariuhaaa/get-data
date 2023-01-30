@@ -1,0 +1,14 @@
+###
+
+POST http://localhost:9000/user 
+Content-Type: "application/json"
+
+{
+    "name": "Bold"
+}
+
+###
+
+DELETE http://localhost:9000/user 
+
+
